@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 0e755bea24274c14c9559b434fc92da1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelMusic: {fileID: 8300000, guid: ea948757626aedb418a3bdcbdd6866c4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
